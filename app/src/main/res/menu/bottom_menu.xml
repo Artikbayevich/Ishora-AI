@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/home_ic"
+        android:title="Asosiy"/>
+
+    <item
+        android:id="@+id/bottom_course"
+        android:icon="@drawable/course_ic"
+        android:title="Course"/>
+
+    <item
+        android:id="@+id/bottom_saved"
+        android:icon="@drawable/saved_ic"
+        android:title="Saqlangan" />
+
+    <item
+        android:id="@+id/bottom_profile"
+        android:icon="@drawable/profile_ic"
+        android:title="Profilim" />
+
+</menu>

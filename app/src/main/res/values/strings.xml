@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IshoraAI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="notification">Bildirishnomalar</string>
+    <string name="rejim">Tungi mavzu</string>
+    <string name="language">"Tilni o'zgartirish"</string>
+    <string name="font">"Font o'lchami"</string>
+    <string name="exit">Accauntdan chiqish</string>
+    <string name="call_operator">Operatorga murojaat qilish</string>
+</resources>
